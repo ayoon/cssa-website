@@ -316,6 +316,11 @@
                 "link": "http://psychology.berkeley.edu/people/david-whitney",
                 "affiliated": "yes"
                 }, {
+                "name": "Anne Collins",
+                "size": 6714,
+                "link": "http://psychology.berkeley.edu/people/anne-collins",
+                "affiliated": "no"
+                },{
                 "name": "Linda Wilbrecht",
                 "size": 6714,
                 "link": "http://psychology.berkeley.edu/people/linda-wilbrecht",
@@ -440,6 +445,11 @@
                     "link": "http://psychology.berkeley.edu/people/linda-wilbrecht",
                 "affiliated": "no"
                     }, {
+                    "name": "Anne Collins",
+                    "size": 6714,
+                    "link": "http://psychology.berkeley.edu/people/anne-collins",
+                    "affiliated": "no"
+                }, {
                     "name": "Fei Xu",
                     "size": 6714,
                     "link": "http://psychology.berkeley.edu/people/fei-xu",
@@ -573,6 +583,11 @@
                     "link": "http://redwood.berkeley.edu/wiki/Fritz_Sommer",
                 "affiliated": "no"
                     }, {
+                    "name": "Anne Collins",
+                    "size": 6714,
+                    "link": "http://psychology.berkeley.edu/people/anne-collins",
+                    "affiliated": "no"
+                    },{
                     "name": "Frederic Theunissen",
                     "size": 6714,
                     "link": "http://psychology.berkeley.edu/people/frederic-theunissen",
